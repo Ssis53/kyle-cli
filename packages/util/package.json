@@ -1,0 +1,24 @@
+{
+  "name": "@kyle-cli/util",
+  "version": "1.0.0",
+  "description": "util",
+  "keywords": [
+    "kyle-cli"
+  ],
+  "author": "邬祥夫",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/util.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "log": "echo \"log from util\""
+  },
+  "dependencies": {}
+}
