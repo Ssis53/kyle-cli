@@ -1,6 +1,6 @@
 {
   "name": "@kyle-cli/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "邬祥夫",
   "bin": {
@@ -22,6 +22,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "log": "echo \"log from core\""
-  },
-  "dependencies": {}
+  }
 }

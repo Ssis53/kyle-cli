@@ -1,6 +1,6 @@
 {
   "name": "@kyle-cli/util",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "util",
   "keywords": [
     "kyle-cli"
@@ -19,6 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "log": "echo \"log from util\""
-  },
-  "dependencies": {}
+  }
 }
