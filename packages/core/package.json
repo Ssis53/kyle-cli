@@ -1,6 +1,6 @@
 {
   "name": "@kyle-cli/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Shawn",
   "bin": {
@@ -23,8 +23,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "log": "echo \"log from core\""
   },
-  "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e",
-  "publishConfig": {
-    "access": "public"
-  }
+  "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e"
 }
