@@ -5,7 +5,7 @@
   "keywords": [
     "kyle-cli"
   ],
-  "author": "邬祥夫",
+  "author": "Shawn",
   "homepage": "",
   "license": "MIT",
   "main": "lib/util.js",

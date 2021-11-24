@@ -2,7 +2,7 @@
   "name": "@kyle-cli/core",
   "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "邬祥夫",
+  "author": "Shawn",
   "bin": {
     "kyle": "lib/core.js"
   },
