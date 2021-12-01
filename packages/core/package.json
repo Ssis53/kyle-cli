@@ -23,5 +23,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "log": "echo \"log from core\""
   },
-  "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e"
+  "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e",
+  "dependencies": {
+    "@kyle-cli/util": "0.0.3"
+  }
 }
