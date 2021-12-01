@@ -1,6 +1,6 @@
 {
   "name": "@kyle-cli/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Shawn",
   "bin": {
@@ -25,6 +25,6 @@
   },
   "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e",
   "dependencies": {
-    "@kyle-cli/util": "0.0.3"
+    "@kyle-cli/util": "^0.0.4"
   }
 }
