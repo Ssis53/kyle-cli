@@ -25,6 +25,7 @@
   },
   "gitHead": "bd0453a3f4edd882619aaf16b91da8135611a39e",
   "dependencies": {
-    "@kyle-cli/util": "../util"
+    "@kyle-cli/util": "../util",
+    "yargs": "^17.3.0"
   }
 }
