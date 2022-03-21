@@ -75,8 +75,8 @@ function core() {
     })
     .fail((msg, err, yargs) => {
         //当输入命令错误执行失败时，可以自定义提示，或者做一些错误处理
-        console.log('err', err);
-        console.log('msg', msg);
+        // console.log('err', err);
+        // console.log('msg', msg);
     })
     .parse(argv, {kyleVersion: kyleVersion.version});  // 1.类似于commander中program的parse，实例化之后，要parse才生效; 2.parse可以将用户输入的命令和参数与开发者想要注入的命令和参数合并成一个对象
 }
